@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85da856ae12a68f44803ac288c0be5fd, type: 3}
+  m_Name: Road
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: -3204104498838935875, guid: 57675b20b0573d1438f9c8ef582aec9c, type: 3}
+  - {fileID: -9037648621225469208, guid: 57675b20b0573d1438f9c8ef582aec9c, type: 3}
+  - {fileID: 705243467752562521, guid: 57675b20b0573d1438f9c8ef582aec9c, type: 3}
+  - {fileID: 4687391419636858045, guid: 57675b20b0573d1438f9c8ef582aec9c, type: 3}
+  - {fileID: 4275030550697570296, guid: 57675b20b0573d1438f9c8ef582aec9c, type: 3}
+  - {fileID: -1353146841550089634, guid: 57675b20b0573d1438f9c8ef582aec9c, type: 3}
+  tileName: Road
+  collider: 0
+  tileUpdates: 1
+  tileTransfers: []

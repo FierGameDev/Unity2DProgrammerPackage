@@ -1,0 +1,12 @@
+{
+  "name": "com.FierGameDev.2DToolset",
+  "version": "0.1",
+  "displayName": "Unity 2D Toolset",
+  "description": "A toolset to help Unity 2D developers",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Fier",
+    "email": "fiergameskills@gmail.com"
+  }
+}

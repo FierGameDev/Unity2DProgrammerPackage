@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85da856ae12a68f44803ac288c0be5fd, type: 3}
+  m_Name: Trough
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 4476c9289e518234c8dccb87194eb8be, type: 3}
+  tileName: Trough
+  collider: 0
+  check: 0
+  tileTransfers:
+  - name: OnFill
+    action: 1
+    tile: {fileID: 11400000, guid: 4c47ab452f43e634a813a7c8efa4b6ec, type: 2}
